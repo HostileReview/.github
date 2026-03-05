@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://hostilereview.com/static/bugeater.png" width="120" alt="Hostile Review">
+  <img src="https://hostilereview.com/static/bugeater.jpg" width="120" alt="Hostile Review">
 </p>
 
 <h1 align="center">Hostile Review</h1>
